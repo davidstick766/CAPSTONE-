@@ -86,6 +86,10 @@ p{
     cursor: pointer;
 }
 
+#payment:hover {
+    background-color: rgb(55, 212, 23);
+}
+
 #cancel {
     width:30%;
     margin: 0 35%;
